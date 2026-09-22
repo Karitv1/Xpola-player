@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
+https://liveeu-gcps.alkassdigital.net:443/alkass1-p/20260910T021521Z/mux_video_1080p_ts/hdntl=exp=1790171366~acl=%2f*~data=hdntl~hmac=af0f7d0359205be6ef39cb78f24c07508a8cc499489f3c73276c229f6c22ceab/index-1.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
+https://liveeu-gcps.alkassdigital.net:443/alkass1-p/20260910T021521Z/mux_video_720p_ts/hdntl=exp=1790171366~acl=%2f*~data=hdntl~hmac=af0f7d0359205be6ef39cb78f24c07508a8cc499489f3c73276c229f6c22ceab/index-1.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480
+https://liveeu-gcps.alkassdigital.net:443/alkass1-p/20260910T021521Z/mux_video_480p_ts/hdntl=exp=1790171366~acl=%2f*~data=hdntl~hmac=af0f7d0359205be6ef39cb78f24c07508a8cc499489f3c73276c229f6c22ceab/index-1.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=200000,RESOLUTION=426x240
+https://liveeu-gcps.alkassdigital.net:443/alkass1-p/20260910T021521Z/mux_video_360p_ts/hdntl=exp=1790171366~acl=%2f*~data=hdntl~hmac=af0f7d0359205be6ef39cb78f24c07508a8cc499489f3c73276c229f6c22ceab/index-1.m3u8

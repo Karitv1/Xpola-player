@@ -1,0 +1,5 @@
+#EXTINF:-1 group-title="AD SPORT" tvg-logo="https://l.top4top.io/p_3431aomly0.jpg", AD SPORT 1
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license=e78769d87a41e15036a4fb8bfdf1371e:37be0375dc9fe544c3c6de6a105f7c0a
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_1/abudhabi_sports_1_dash_enc/index.mpd
+
